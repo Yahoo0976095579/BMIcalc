@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# 忽略 .vscode 目錄
+.vscode
